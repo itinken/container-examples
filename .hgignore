@@ -1,0 +1,8 @@
+syntax: glob
+
+.*.sw?
+*/.idea/
+*.iml
+*.pyc
+__pycache__
+.cache
